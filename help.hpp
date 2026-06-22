@@ -48,7 +48,7 @@ EXAMPLES:
   app --repl                      Start interactive REPL
 
 DOCUMENTATION:
-  https://aplusplus-lang.dev
+  https://aplusplus.pages.dev
 
 )" << std::endl;
 }
